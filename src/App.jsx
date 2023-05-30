@@ -25,7 +25,7 @@ const App = () => {
     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
   />
 <ImageOverlay
-       url={image}
+       url="./Frontend_1.tif"
         bounds={[
           [32, -130],
           [13, -100],
